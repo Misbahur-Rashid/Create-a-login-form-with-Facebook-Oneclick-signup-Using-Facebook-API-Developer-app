@@ -46,7 +46,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `oauth_provider`, `oauth_id`, `name`, `first_name`, `last_name`, `email`, `password`, `picture`, `created_at`, `modified_at`) VALUES
-(4, 'facebook', '3389120954645105', 'Misbahur Asif', 'Misbahur', 'Asif', '', '', 'https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=3389120954645105&height=50&width=50&ext=1661184040&hash=AeRhOD8OzYcrMJVKNOY', '2022-07-23 05:06:35', '2022-07-23 22:00:39');
+(4, 'facebook', '3389120954645457', 'Misbahur Asif', 'Misbahur', 'Asif', '', '', 'https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=3389120954645105&height=50&width=50&ext=1661184040&hash=AeRhOD8OzYcrMJVKNOY', '2022-07-23 05:06:35', '2022-07-23 22:00:39');
 
 --
 -- Indexes for dumped tables
