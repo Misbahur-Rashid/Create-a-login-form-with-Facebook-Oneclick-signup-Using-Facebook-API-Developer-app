@@ -11,8 +11,8 @@ $redirectUrl   = 'http://localhost/fb_login/index.php'; //Callback URL
 $permissions = array('email');  //Optional permissions
  
 $fb = new Facebook([
-  'app_id' => '1697872373919262', 
-  'app_secret' => '2fe6410faf6b94e9d7bbcde7ad090945', 
+  'app_id' => '', 
+  'app_secret' => '', 
   'default_graph_version' => 'v2.2',
   ]);
 
